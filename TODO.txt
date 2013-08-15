@@ -1,0 +1,4 @@
+*de*
+o  Einen Wiederstand einfügen, der den Maximalstrom für die Display-Hintergrundbeleuchtung begrenzt. 
+   Nötig für Displays, bei denen die Hintergrundbeleuchting für eine nidrigere Spannung alf 5V ausgelegt ist.
+
